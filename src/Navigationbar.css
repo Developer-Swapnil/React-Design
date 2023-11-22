@@ -1,0 +1,96 @@
+.navigation-parent{
+   margin: 0 0 0 1.5em;
+    width: 80%;
+}
+
+
+.top{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin: 0 1em 0 1em;
+    justify-content: space-between;
+}
+.top1{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    
+}
+
+.top2{
+    display: flex;
+    flex-direction: row;
+    align-items: center;   
+}
+
+.icon1{
+    width: 15%;
+    height: 3vh;
+    padding: 0.5em 0.3em;
+    border-radius: 20%;
+    /* margin-right: 5px; */
+    background-color: gainsboro;
+}
+
+.icon2{
+    width: 15%;
+    height: 3vh;
+    padding: 0.5em 0.3em;
+    margin-right: 10px;
+    border-radius: 50%;
+    background-color: rgb(23, 132, 157);
+}
+
+.icon3{
+    width: 15%;
+    height: 3vh;
+    padding: 0.5em 0.1em;
+    border-radius: 50%;
+    margin-left: 20px;
+    background-color: rgb(249, 5, 5);
+}
+.head1{
+    width: 250px;
+    font-weight: 800;
+    font-size: 1.2em;
+}
+
+.head2, .head3{
+    width: 100px;
+    font-weight:600 ;
+    font-size: 1em;
+}
+
+
+.navigation {
+    display: flex;
+    flex-direction: row;
+    background-color: gainsboro;
+    border-radius: 50px;
+    justify-content: space-evenly;
+    padding: 5px; /*Add padding for better spacing*/
+    width: 100%; /* Adjust the width as needed */
+    margin: 0 auto; /* Center the navigation */
+
+  }
+  
+  .items {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    width: 16.66%;
+    cursor: pointer;
+  transition:  0.3s ease; /* Add transition effect */
+  }
+
+
+  
+  .active-link {
+    background-color: white;
+    border-radius: 50px;
+    padding: 5px; /* Add padding to the active link for better appearance */
+    transition: background-color 0.5s ease;
+  }
+  

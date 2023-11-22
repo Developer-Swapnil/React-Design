@@ -1,0 +1,17 @@
+.sidebar {
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* Center items horizontally */
+    justify-content: space-evenly; /* Add space evenly between items */
+    background-color: gainsboro;
+    width: 100px;
+    height: 100vh;
+  }
+  
+  .logo {
+    width: 50px; /* Set the desired width for the logo */
+    height: auto; /* Maintain the aspect ratio */
+  }
+  .sidebar svg {
+    margin-bottom: 10px;
+  }
