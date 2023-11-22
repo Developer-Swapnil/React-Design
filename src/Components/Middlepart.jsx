@@ -1,6 +1,6 @@
 import React from 'react'
-import girl from "./girl-studying.jpg";
-import boy from "./boy-studying.jpg";
+import girl from "../Images/girl-studying.jpg";
+import boy from "../Images/boy-studying.jpg";
 import "./MiddlePart.css";
 import { MdPhotoCameraFront } from "react-icons/md";
 import { FiMic } from "react-icons/fi";
