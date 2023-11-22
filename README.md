@@ -2,7 +2,7 @@
 
 ## Screenshot
 
-[https://github.com/Developer-Swapnil/React-Design/blob/b9d27d6d30d73bc6da3f2ec286bbc15d2df28772/src/Images/ScreenSHot.png]
+[](https://github.com/Developer-Swapnil/React-Design/blob/b9d27d6d30d73bc6da3f2ec286bbc15d2df28772/src/Images/ScreenSHot.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
